@@ -231,7 +231,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 @media(min-width:768px) {
-    .navbar-default {
+    .navbar-fixed-top {
         padding: 25px 0;
         border: 0;
         background-color: transparent;
@@ -259,6 +259,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+
 }
 
 header {
